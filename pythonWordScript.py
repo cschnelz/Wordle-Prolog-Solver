@@ -4,9 +4,6 @@ import os
 def main():
     input: str = ""
     words: List[str] = []
-
-    f = open("words.pl", "w")
-    f.write(":-dynamic word/1.\n")
     
     # opening the text file
     with open('words.txt','r') as file:
@@ -26,10 +23,12 @@ def main():
 
     # get rid of last newline in final file
     words[-1] = words[-1][0:-1]
+
+    f = open("words.pl", "w")
+    f.write(":-dynamic word/1.\n")
     for word in words:
         f.write(word)
     f.close()
 
 if __name__ == "__main__":
     main()
-
