@@ -1,4 +1,5 @@
 # Wordle Prolog-Solver; A logic-based solver for a python adaptation of the internet game Wordle
+## Acknowledgments
 
 **Authors:** Carlos García-Lemus , Michael Long, Charles Schnelz
 
@@ -8,7 +9,13 @@
 
 **Affiliation:** California Polytechnic University, San Luis Obispo Computer Science Department 
 
-**References:**        
+## Instructions 
+
+**How to run this project:**
+
+**How to reproduce our results:**
+
+## Further Acknowledgments        
 
 Wardle, Josh (n.d.). Wordle - a daily word game. powerlanguage.co.uk. Retrieved January 23, 2022, from
   https://www.powerlanguage.co.uk/Wordle/ 
