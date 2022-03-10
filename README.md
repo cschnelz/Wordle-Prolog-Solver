@@ -10,6 +10,7 @@
 **Affiliation:** California Polytechnic University, San Luis Obispo Computer Science Department 
 
 ## Instructions for this project
+**Requirements for this project:**
 
 **How to run this project:**
 
