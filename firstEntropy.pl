@@ -38,7 +38,7 @@ cullWords(NewWords,NewScores,[_|OldWords],[_|OldScores]) :- cullWords(NewWords, 
 
 %% solution should be in the form [a,b,c,d,e]
 firstEntropyEntry(Solution) :-
-    consult(words), consult(scores),
+    consult(wordleWords), consult(wordleScores),
     asserta(solution(Solution)),
     findall(X, word(X), WordList),
     findall(Y, score(Y), Scores),

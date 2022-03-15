@@ -6,7 +6,7 @@ def main():
     words: List[str] = []
     
     # opening the text file
-    with open('words.txt','r') as file:
+    with open('WordleWords.txt','r') as file:
     
         # reading each line    
         for line in file:
@@ -24,7 +24,7 @@ def main():
     # get rid of last newline in final file
     words[-1] = words[-1][0:-1]
 
-    f = open("words.pl", "w")
+    f = open("WordleWords.pl", "w")
     f.write(":-dynamic word/1.\n")
     for word in words:
         f.write(word)

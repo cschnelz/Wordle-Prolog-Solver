@@ -14,7 +14,7 @@ pattern_frequencies = defaultdict(lambda: defaultdict(int))
 
 words = []
 
-with open('words.txt','r') as file:
+with open('WordleWords.txt','r') as file:
     # reading each line    
     for line in file:
         # reading each word        

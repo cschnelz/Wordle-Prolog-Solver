@@ -38,7 +38,7 @@ cullWords3(Word) :- retract(word(Word)).
 
 randomEntry(Solution) :-
     asserta(solution(Solution)),
-    consult(words),
+    consult(wordleWords),
     randomAgent([-1,-1,-1,-1,-1],0),
     retract(solution(_)).
 
