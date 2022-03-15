@@ -15,7 +15,6 @@ currentPattern([-1,-1,-1,-1,-1]).
 
 :- dynamic makeGuess/3.
 
-solution([c,r,a,n,e]).
 
 makeGuessAndCull(Guess):-
     % load the makeGuess Pred
@@ -37,7 +36,21 @@ cullWords3(Word) :- currentPattern(P), currentGuess(G), makeGuess(Word, G, P), !
 % otherwise, remove it from the database
 cullWords3(Word) :- retract(word(Word)).
 
+randomEntry(Solution) :-
+    asserta(solution(Solution)),
+    consult(words),
+    randomAgent([-1,-1,-1,-1,-1],0),
+    retract(solution(_)).
 
+randomAgent([2,2,2,2,2], Guesses) :- write('\n\nCame to answer in '),write(Guesses),writeln(' guesses').
+randomAgent(Pattern, Guesses) :-
+    findall(X, word(X), CurrentWords),
 
-printWordList() :- forall(word(X), writef('%p%p%p%p%p\n',X)).
+    random_member(Guess, CurrentWords),
+    makeGuessAndCull(Guess), !,
+
+    writef('Guess: %p%p%p%p%p\n', Guess),
+    currentPattern(P),
+    GuessInc is Guesses + 1,
+    randomAgent(P, GuessInc).
 
