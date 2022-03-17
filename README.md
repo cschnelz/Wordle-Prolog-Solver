@@ -38,6 +38,13 @@ This will give each guess, and each hint in the form of "[0, 0, 1, 0, 1]" for ex
 In the folder statistics will list every statistics gained from this project found in our report. To reproduce, move this file into the same file as firstOrderEntropy.pl and run each statistics file you see fit.
 To see more detailed results and diagrams, consult section 5c [here](https://docs.google.com/document/d/17zcva0blP_qaeTDRjn1T9nG3R9FT3QFr/edit?usp=sharing&ouid=108228719403900494481&rtpof=true&sd=true) (You can also use the makefile provided and run 'make run1', 'make run2', and finally once those 2 are finished, 'make run3')
 
+Baseline "random-guess" bot can be loaded with
+
+`swipl randomBot.pl`
+
+and run similarly, with
+
+`?- randomEntry([t,r,a,c,e])`
 
 ## Further Acknowledgments        
 
