@@ -37,8 +37,8 @@ def main():
     for word in newWordList:
         if word[0] != currWord:
             if first == True:
-                newList.append((currWord, newVal))
-                print(currWord, newVal)
+                newList.append((currWord, newVal/5))
+                print(currWord, newVal/5)
             first = True
             currWord = word[0]
             newVal = 0
