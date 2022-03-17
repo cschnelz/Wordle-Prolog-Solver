@@ -3,11 +3,8 @@ run1:
 
 
 run2:
-	bash commandsForStats2.txt > stats2.txt
-
-run3:
 	bash commandRandomStats1.txt > stats1Random.txt
 
-run4:
+run3:
 	python3 neatStatsRandom.py > neatStatsRandom.txt
 	python3 neatStatsEntropy.py > neatStatsEntropy.txt
