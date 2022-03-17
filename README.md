@@ -1,9 +1,9 @@
-# Wordle Prolog-Solver; A logic-based solver for a python adaptation of the internet game Wordle
+# WordLog; A logic-based solver for a python adaptation of the internet game Wordle
 ## Acknowledgments
 
 **Authors:** Carlos García-Lemus , Michael Long, Charles Schnelz
 
-**Instructor:** Dr. Canaan
+**Instructor:** Dr. Rodrigo Canaan
 
 **Course:** CSC 481; Knowledge Based Systems
 
@@ -11,8 +11,18 @@
 
 ## Instructions for this project
 **Requirements for this project:**
+`pip install tqdm`
+
+`pip install check`
 
 **How to run this project:**
+
+
+`swipl firstOrderEntropy.pl`
+To run enter a word that our entropy bot will guess it must be in the format "[a,b,c,d,e]"
+`?- firstEntropyEntry([t,r,a,c,e])`
+
+
 
 **How to reproduce our results:**
 
