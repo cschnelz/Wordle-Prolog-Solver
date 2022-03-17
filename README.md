@@ -16,9 +16,9 @@
 **How to run this project:**
 
 `swipl firstOrderEntropy.pl`  
-To run enter a word that our entropy bot will guess it must be in the format "[a,b,c,d,e]". 
-`?- firstEntropyEntry([t,r,a,c,e])`   
-This will give each guess, and each hint in the form of "[0, 0, 1, 0, 1]" for example as well as each guessed word
+To run enter a word that our entropy bot will guess it must be in the format "[a,b,c,d,e]"  
+`?- firstEntropyEntry([t,r,a,c,e])`  
+This will give each guess, and each hint in the form of "[0, 0, 1, 0, 1]" for example as well as each guessed word  
 
 
 
