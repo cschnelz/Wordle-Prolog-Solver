@@ -11,8 +11,6 @@
 
 ## Instructions for this project
 **Requirements for this project:**
-`pip install tqdm`
-`pip install check`
 
 **How to run this project:**
 
