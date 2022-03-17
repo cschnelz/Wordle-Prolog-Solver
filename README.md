@@ -14,8 +14,8 @@
 ## Instructions for this project
 **Requirements for this project:**  
 - Prolog
-- Python3
-For /statistics/:
+- Python3  
+For /statistics/:  
 - tqdm
 
 
