@@ -7,7 +7,7 @@
 
 **Course:** CSC 481; Knowledge Based Systems
 
-**Affiliation:** California Polytechnic University, San Luis Obispo Computer Science Department 
+**Affiliation:** California Polytechnic University, San Luis Obispo Computer Science and Software Engineering Department 
 
 ## Instructions for this project
 **Requirements for this project:**  
