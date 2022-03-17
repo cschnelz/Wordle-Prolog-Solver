@@ -18,9 +18,9 @@
 **How to run this project:**
 
 
-`swipl firstOrderEntropy.pl`
-To run enter a word that our entropy bot will guess it must be in the format "[a,b,c,d,e]"
-`?- firstEntropyEntry([t,r,a,c,e])`
+`swipl firstOrderEntropy.pl`  
+To run enter a word that our entropy bot will guess it must be in the format "[a,b,c,d,e]". 
+`?- firstEntropyEntry([t,r,a,c,e])`  
 
 
 
