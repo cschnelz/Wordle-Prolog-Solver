@@ -47971,3 +47971,4763 @@ Came to answer in 5 guesses
 
 Word: askew
 
+Result: 00000
+Guess: tufty
+Result: 01000
+Guess: geoid
+Result: 20001
+Guess: amaze
+Result: 20120
+Guess: apses
+Result: 22222
+Guess: askew
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: askoi
+
+Result: 00000
+Guess: nervy
+Result: 10100
+Guess: scogs
+Result: 01101
+Guess: dosha
+Result: 22222
+Guess: askoi
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: askoi
+
+Result: 00001
+Guess: luffa
+Result: 01000
+Guess: zante
+Result: 01011
+Guess: bobas
+Result: 20111
+Guess: aviso
+Result: 22222
+Guess: askoi
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: askoi
+
+Result: 00000
+Guess: luter
+Result: 00100
+Guess: nying
+Result: 01002
+Guess: bodhi
+Result: 00222
+Guess: kikoi
+Result: 22222
+Guess: askoi
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: askoi
+
+Result: 01011
+Guess: pinks
+Result: 10111
+Guess: smaik
+Result: 22222
+Guess: askoi
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: askoi
+
+Result: 01001
+Guess: circa
+Result: 20010
+Guess: await
+Result: 20002
+Guess: animi
+Result: 20002
+Guess: appui
+Result: 22222
+Guess: askoi
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: askos
+
+Result: 01002
+Guess: galls
+Result: 20002
+Guess: arnas
+Result: 20002
+Guess: aedes
+Result: 20102
+Guess: apsis
+Result: 22222
+Guess: askos
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: askos
+
+Result: 11000
+Guess: sawer
+Result: 00012
+Guess: picas
+Result: 20202
+Guess: ankhs
+Result: 22222
+Guess: askos
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: askos
+
+Result: 01000
+Guess: noble
+Result: 00101
+Guess: trock
+Result: 00220
+Guess: kikoi
+Result: 01222
+Guess: makos
+Result: 22222
+Guess: askos
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: askos
+
+Result: 00000
+Guess: puler
+Result: 00020
+Guess: indow
+Result: 01020
+Guess: gavot
+Result: 00021
+Guess: cocoa
+Result: 22222
+Guess: askos
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: askos
+
+Result: 01000
+Guess: naric
+Result: 22000
+Guess: ashed
+Result: 22000
+Guess: asway
+Result: 22120
+Guess: assot
+Result: 22222
+Guess: askos
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: aspen
+
+Result: 01100
+Guess: dashi
+Result: 00011
+Guess: bomas
+Result: 00111
+Guess: lyase
+Result: 02121
+Guess: usnea
+Result: 22222
+Guess: aspen
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: aspen
+
+Result: 00020
+Guess: motel
+Result: 01020
+Guess: daker
+Result: 22020
+Guess: ashes
+Result: 22222
+Guess: aspen
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: aspen
+
+Result: 11001
+Guess: saute
+Result: 20021
+Guess: acres
+Result: 22020
+Guess: assez
+Result: 22022
+Guess: ashen
+Result: 22222
+Guess: aspen
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: aspen
+
+Result: 00020
+Guess: domed
+Result: 00020
+Guess: huger
+Result: 11020
+Guess: savey
+Result: 20021
+Guess: ables
+Result: 22222
+Guess: aspen
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: aspen
+
+Result: 00021
+Guess: comes
+Result: 10020
+Guess: shyer
+Result: 00120
+Guess: bused
+Result: 22222
+Guess: aspen
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: asper
+
+Result: 00120
+Guess: fuses
+Result: 11020
+Guess: speel
+Result: 22220
+Guess: aspen
+Result: 22222
+Guess: asper
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: asper
+
+Result: 00001
+Guess: butte
+Result: 01111
+Guess: hears
+Result: 11022
+Guess: sayer
+Result: 22222
+Guess: asper
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: asper
+
+Result: 01100
+Guess: karat
+Result: 21020
+Guess: armed
+Result: 20022
+Guess: aiver
+Result: 20022
+Guess: anger
+Result: 22222
+Guess: asper
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: asper
+
+Result: 11001
+Guess: retia
+Result: 01022
+Guess: baker
+Result: 20022
+Guess: alder
+Result: 20022
+Guess: armer
+Result: 20022
+Guess: anger
+Result: 22222
+Guess: asper
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: asper
+
+Result: 00001
+Guess: lowne
+Result: 00022
+Guess: biter
+Result: 01022
+Guess: gazer
+Result: 20022
+Guess: acker
+Result: 20022
+Guess: armer
+Result: 20022
+Guess: adder
+Result: 22222
+Guess: asper
+
+
+Came to answer in 7 guesses
+----------------------------------
+
+Word: aspic
+
+Result: 01100
+Guess: riant
+Result: 01020
+Guess: walie
+Result: 20022
+Guess: acmic
+Result: 22022
+Guess: asdic
+Result: 22222
+Guess: aspic
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: aspic
+
+Result: 01000
+Guess: ranee
+Result: 00001
+Guess: kofta
+Result: 01010
+Guess: bimah
+Result: 20021
+Guess: allis
+Result: 22222
+Guess: aspic
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: aspic
+
+Result: 10010
+Guess: sowar
+Result: 01011
+Guess: gamps
+Result: 22222
+Guess: aspic
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: aspic
+
+Result: 01022
+Guess: gamic
+Result: 20022
+Guess: artic
+Result: 20022
+Guess: azoic
+Result: 20022
+Guess: aulic
+Result: 22022
+Guess: asdic
+Result: 22222
+Guess: aspic
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: aspic
+
+Result: 10000
+Guess: cooey
+Result: 11111
+Guess: scapi
+Result: 22222
+Guess: aspic
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: aspie
+
+Result: 01010
+Guess: fixer
+Result: 11020
+Guess: petit
+Result: 00222
+Guess: umpie
+Result: 22222
+Guess: aspie
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: aspie
+
+Result: 00010
+Guess: yoker
+Result: 00102
+Guess: blive
+Result: 01002
+Guess: gimme
+Result: 01022
+Guess: tatie
+Result: 22222
+Guess: aspie
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: aspie
+
+Result: 11101
+Guess: piers
+Result: 11102
+Guess: spice
+Result: 22222
+Guess: aspie
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: aspie
+
+Result: 00002
+Guess: bombe
+Result: 01012
+Guess: rinse
+Result: 11102
+Guess: saice
+Result: 22222
+Guess: aspie
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: aspie
+
+Result: 01010
+Guess: cigar
+Result: 11001
+Guess: palki
+Result: 21120
+Guess: apsis
+Result: 22222
+Guess: aspie
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: aspis
+
+Result: 00002
+Guess: trees
+Result: 00002
+Guess: dowds
+Result: 11012
+Guess: simps
+Result: 21122
+Guess: apsis
+Result: 22222
+Guess: aspis
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: aspis
+
+Result: 01002
+Guess: wands
+Result: 00102
+Guess: reals
+Result: 00012
+Guess: comas
+Result: 22222
+Guess: aspis
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: aspis
+
+Result: 01000
+Guess: kayle
+Result: 00102
+Guess: goats
+Result: 00012
+Guess: jubas
+Result: 22222
+Guess: aspis
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: aspis
+
+Result: 10000
+Guess: puffy
+Result: 00110
+Guess: trape
+Result: 01202
+Guess: capas
+Result: 22222
+Guess: aspis
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: aspis
+
+Result: 01112
+Guess: risps
+Result: 11102
+Guess: spiks
+Result: 22222
+Guess: aspis
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: aspro
+
+Result: 01000
+Guess: mania
+Result: 00210
+Guess: typal
+Result: 22222
+Guess: aspro
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: aspro
+
+Result: 11100
+Guess: sprug
+Result: 11021
+Guess: pairs
+Result: 22222
+Guess: aspro
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: aspro
+
+Result: 00010
+Guess: devon
+Result: 10100
+Guess: smock
+Result: 01001
+Guess: goffs
+Result: 01102
+Guess: lasso
+Result: 22222
+Guess: aspro
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: aspro
+
+Result: 00001
+Guess: edits
+Result: 10001
+Guess: summa
+Result: 01110
+Guess: karsy
+Result: 21110
+Guess: arson
+Result: 22222
+Guess: aspro
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: aspro
+
+Result: 00001
+Guess: fides
+Result: 22000
+Guess: assam
+Result: 22010
+Guess: ascon
+Result: 22222
+Guess: aspro
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: assai
+
+Result: 10100
+Guess: snaky
+Result: 01201
+Guess: bases
+Result: 01211
+Guess: missa
+Result: 22222
+Guess: assai
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: assai
+
+Result: 01001
+Guess: macks
+Result: 10100
+Guess: start
+Result: 00211
+Guess: nyssa
+Result: 22222
+Guess: assai
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: assai
+
+Result: 00000
+Guess: outro
+Result: 01000
+Guess: pikey
+Result: 11101
+Guess: sains
+Result: 22222
+Guess: assai
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: assai
+
+Result: 00001
+Guess: wolfs
+Result: 10020
+Guess: scray
+Result: 01220
+Guess: basan
+Result: 22222
+Guess: assai
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: assai
+
+Result: 00001
+Guess: brers
+Result: 10100
+Guess: spank
+Result: 20110
+Guess: agism
+Result: 22222
+Guess: assai
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: assam
+
+Result: 10000
+Guess: sling
+Result: 00001
+Guess: porks
+Result: 20110
+Guess: awash
+Result: 22222
+Guess: assam
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: assam
+
+Result: 00020
+Guess: nikau
+Result: 22020
+Guess: asway
+Result: 22222
+Guess: assam
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: assam
+
+Result: 00001
+Guess: voces
+Result: 10000
+Guess: spunk
+Result: 00110
+Guess: brash
+Result: 22220
+Guess: assay
+Result: 22222
+Guess: assam
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: assam
+
+Result: 00000
+Guess: chiro
+Result: 10001
+Guess: setts
+Result: 10210
+Guess: mussy
+Result: 22222
+Guess: assam
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: assam
+
+Result: 00000
+Guess: prude
+Result: 00020
+Guess: lilac
+Result: 01021
+Guess: javas
+Result: 22020
+Guess: asway
+Result: 22222
+Guess: assam
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: assay
+
+Result: 10000
+Guess: stuff
+Result: 02000
+Guess: dsomo
+Result: 02101
+Guess: ksars
+Result: 22222
+Guess: assay
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: assay
+
+Result: 00001
+Guess: rotls
+Result: 00212
+Guess: messy
+Result: 22222
+Guess: assay
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: assay
+
+Result: 00001
+Guess: flobs
+Result: 10100
+Guess: swamp
+Result: 01200
+Guess: haste
+Result: 22220
+Guess: assai
+Result: 22222
+Guess: assay
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: assay
+
+Result: 00100
+Guess: llano
+Result: 01000
+Guess: mamee
+Result: 00021
+Guess: puhas
+Result: 10020
+Guess: strak
+Result: 22222
+Guess: assay
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: assay
+
+Result: 01000
+Guess: marid
+Result: 20001
+Guess: axles
+Result: 20110
+Guess: abash
+Result: 22222
+Guess: assay
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: asses
+
+Result: 00101
+Guess: chare
+Result: 01100
+Guess: paedo
+Result: 01012
+Guess: vegas
+Result: 20022
+Guess: ajies
+Result: 20022
+Guess: antes
+Result: 20022
+Guess: abbes
+Result: 22222
+Guess: asses
+
+
+Came to answer in 7 guesses
+----------------------------------
+
+Word: asses
+
+Result: 00000
+Guess: molto
+Result: 20001
+Guess: avize
+Result: 20102
+Guess: apers
+Result: 20022
+Guess: acnes
+Result: 22222
+Guess: asses
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: asses
+
+Result: 00000
+Guess: quoin
+Result: 00102
+Guess: trabs
+Result: 01022
+Guess: vales
+Result: 20022
+Guess: akees
+Result: 22222
+Guess: asses
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: asses
+
+Result: 01000
+Guess: ratan
+Result: 10101
+Guess: spade
+Result: 20022
+Guess: abies
+Result: 20022
+Guess: aloes
+Result: 20022
+Guess: acmes
+Result: 22022
+Guess: ashes
+Result: 22222
+Guess: asses
+
+
+Came to answer in 7 guesses
+----------------------------------
+
+Word: asses
+
+Result: 00000
+Guess: robot
+Result: 00202
+Guess: lisps
+Result: 01202
+Guess: masks
+Result: 22222
+Guess: asses
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: asset
+
+Result: 00000
+Guess: vigor
+Result: 01000
+Guess: banya
+Result: 00110
+Guess: chasm
+Result: 11011
+Guess: tepas
+Result: 22222
+Guess: asset
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: asset
+
+Result: 10010
+Guess: squab
+Result: 01001
+Guess: gamps
+Result: 22000
+Guess: asdic
+Result: 22120
+Guess: aster
+Result: 22222
+Guess: asset
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: asset
+
+Result: 00000
+Guess: fungi
+Result: 01000
+Guess: kayak
+Result: 10101
+Guess: shaps
+Result: 22220
+Guess: assez
+Result: 22222
+Guess: asset
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: asset
+
+Result: 00000
+Guess: coyly
+Result: 00211
+Guess: justs
+Result: 11210
+Guess: tassa
+Result: 22222
+Guess: asset
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: asset
+
+Result: 20101
+Guess: artis
+Result: 20012
+Guess: adust
+Result: 22202
+Guess: assot
+Result: 22222
+Guess: asset
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: assez
+
+Result: 00000
+Guess: hubby
+Result: 00021
+Guess: gives
+Result: 00220
+Guess: losel
+Result: 01220
+Guess: cased
+Result: 22220
+Guess: asset
+Result: 22222
+Guess: assez
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: assez
+
+Result: 01100
+Guess: reata
+Result: 01120
+Guess: gazed
+Result: 22222
+Guess: assez
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: assez
+
+Result: 00100
+Guess: train
+Result: 01000
+Guess: laldy
+Result: 20201
+Guess: apsos
+Result: 22200
+Guess: assam
+Result: 22222
+Guess: assez
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: assez
+
+Result: 00101
+Guess: clade
+Result: 10011
+Guess: emmas
+Result: 11011
+Guess: sensa
+Result: 22222
+Guess: assez
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: assez
+
+Result: 00001
+Guess: rhyme
+Result: 01001
+Guess: netts
+Result: 10020
+Guess: siled
+Result: 00220
+Guess: cosec
+Result: 22222
+Guess: assez
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: assot
+
+Result: 11000
+Guess: tauld
+Result: 10112
+Guess: stoat
+Result: 01112
+Guess: boast
+Result: 22222
+Guess: assot
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: assot
+
+Result: 20000
+Guess: ahigh
+Result: 20121
+Guess: altos
+Result: 22022
+Guess: ascot
+Result: 22222
+Guess: assot
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: assot
+
+Result: 20010
+Guess: arete
+Result: 21100
+Guess: atony
+Result: 20022
+Guess: allot
+Result: 22222
+Guess: assot
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: assot
+
+Result: 00000
+Guess: bunce
+Result: 00101
+Guess: vitta
+Result: 11010
+Guess: tokay
+Result: 21100
+Guess: atoll
+Result: 22222
+Guess: assot
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: assot
+
+Result: 10100
+Guess: thole
+Result: 01002
+Guess: yourt
+Result: 10012
+Guess: ovist
+Result: 22222
+Guess: assot
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: aster
+
+Result: 00000
+Guess: goopy
+Result: 00000
+Guess: climb
+Result: 20010
+Guess: afara
+Result: 21021
+Guess: arret
+Result: 22222
+Guess: aster
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: aster
+
+Result: 10011
+Guess: tubae
+Result: 01220
+Guess: paten
+Result: 20220
+Guess: acted
+Result: 21220
+Guess: artel
+Result: 20222
+Guess: after
+Result: 22222
+Guess: aster
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: aster
+
+Result: 00000
+Guess: dildo
+Result: 00201
+Guess: mutts
+Result: 21210
+Guess: artsy
+Result: 22222
+Guess: aster
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: aster
+
+Result: 01101
+Guess: yrent
+Result: 11101
+Guess: tarre
+Result: 01212
+Guess: petar
+Result: 22222
+Guess: aster
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: aster
+
+Result: 00001
+Guess: bumfs
+Result: 10001
+Guess: slipt
+Result: 11100
+Guess: tasso
+Result: 22222
+Guess: aster
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: astir
+
+Result: 00000
+Guess: clepe
+Result: 10100
+Guess: skiff
+Result: 11011
+Guess: ribas
+Result: 22222
+Guess: astir
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: astir
+
+Result: 00001
+Guess: mulls
+Result: 00110
+Guess: phish
+Result: 00121
+Guess: besit
+Result: 11020
+Guess: stoic
+Result: 22222
+Guess: astir
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: astir
+
+Result: 00100
+Guess: flimp
+Result: 01011
+Guess: dints
+Result: 11020
+Guess: stoic
+Result: 22222
+Guess: astir
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: astir
+
+Result: 00000
+Guess: pokey
+Result: 20101
+Guess: amias
+Result: 22222
+Guess: astir
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: astir
+
+Result: 10110
+Guess: scram
+Result: 10101
+Guess: roans
+Result: 11102
+Guess: taser
+Result: 22222
+Guess: astir
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: astun
+
+Result: 00001
+Guess: gowfs
+Result: 10010
+Guess: selah
+Result: 01111
+Guess: canst
+Result: 22222
+Guess: astun
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: astun
+
+Result: 00010
+Guess: pipal
+Result: 01200
+Guess: match
+Result: 21200
+Guess: anted
+Result: 22222
+Guess: astun
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: astun
+
+Result: 10000
+Guess: sizel
+Result: 10001
+Guess: tomos
+Result: 00011
+Guess: kydst
+Result: 22222
+Guess: astun
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: astun
+
+Result: 00001
+Guess: diels
+Result: 00111
+Guess: roust
+Result: 11201
+Guess: sutta
+Result: 22222
+Guess: astun
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: astun
+
+Result: 00001
+Guess: cloys
+Result: 10010
+Guess: segar
+Result: 01110
+Guess: hasta
+Result: 20111
+Guess: adust
+Result: 22222
+Guess: astun
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: asura
+
+Result: 00001
+Guess: odyls
+Result: 11022
+Guess: surra
+Result: 22222
+Guess: asura
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: asura
+
+Result: 10000
+Guess: reiki
+Result: 01000
+Guess: droll
+Result: 11022
+Guess: surra
+Result: 22222
+Guess: asura
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: asura
+
+Result: 01000
+Guess: queue
+Result: 10200
+Guess: study
+Result: 01201
+Guess: wauks
+Result: 22222
+Guess: asura
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: asura
+
+Result: 01100
+Guess: barny
+Result: 01110
+Guess: grass
+Result: 02011
+Guess: eskar
+Result: 22020
+Guess: aspro
+Result: 22222
+Guess: asura
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: asura
+
+Result: 00000
+Guess: dicey
+Result: 20010
+Guess: amman
+Result: 21101
+Guess: araks
+Result: 22222
+Guess: asura
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: asway
+
+Result: 00002
+Guess: dryly
+Result: 00002
+Guess: mochy
+Result: 00002
+Guess: fuzzy
+Result: 01002
+Guess: navvy
+Result: 00102
+Guess: beaty
+Result: 20022
+Guess: appay
+Result: 22222
+Guess: asway
+
+
+Came to answer in 7 guesses
+----------------------------------
+
+Word: asway
+
+Result: 01000
+Guess: naker
+Result: 01001
+Guess: gyoza
+Result: 10110
+Guess: stays
+Result: 20110
+Guess: abysm
+Result: 22222
+Guess: asway
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: asway
+
+Result: 00000
+Guess: pumie
+Result: 01001
+Guess: lytta
+Result: 01202
+Guess: gawky
+Result: 22222
+Guess: asway
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: asway
+
+Result: 01001
+Guess: halos
+Result: 10100
+Guess: scare
+Result: 20010
+Guess: angst
+Result: 22200
+Guess: aswim
+Result: 22222
+Guess: asway
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: asway
+
+Result: 00002
+Guess: choky
+Result: 00002
+Guess: lippy
+Result: 01002
+Guess: gammy
+Result: 00102
+Guess: unary
+Result: 20002
+Guess: abbey
+Result: 22022
+Guess: assay
+Result: 22222
+Guess: asway
+
+
+Came to answer in 7 guesses
+----------------------------------
+
+Word: aswim
+
+Result: 00100
+Guess: triol
+Result: 01011
+Guess: vigas
+Result: 01101
+Guess: nashi
+Result: 10021
+Guess: sepia
+Result: 22020
+Guess: asdic
+Result: 22222
+Guess: aswim
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: aswim
+
+Result: 00101
+Guess: trios
+Result: 22020
+Guess: asdic
+Result: 22020
+Guess: aspie
+Result: 22222
+Guess: aswim
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: aswim
+
+Result: 00000
+Guess: freon
+Result: 00000
+Guess: hulky
+Result: 01200
+Guess: pawaw
+Result: 22222
+Guess: aswim
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: aswim
+
+Result: 01100
+Guess: gists
+Result: 10100
+Guess: snipy
+Result: 02120
+Guess: osmic
+Result: 22222
+Guess: aswim
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: aswim
+
+Result: 00100
+Guess: ooses
+Result: 10100
+Guess: spazz
+Result: 01010
+Guess: canst
+Result: 22000
+Guess: asura
+Result: 22222
+Guess: aswim
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: asyla
+
+Result: 00100
+Guess: igloo
+Result: 10011
+Guess: seral
+Result: 21111
+Guess: alays
+Result: 22222
+Guess: asyla
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: asyla
+
+Result: 10001
+Guess: limby
+Result: 11100
+Guess: sylph
+Result: 11001
+Guess: ylkes
+Result: 22222
+Guess: asyla
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: asyla
+
+Result: 00100
+Guess: dolor
+Result: 00001
+Guess: newel
+Result: 01001
+Guess: plims
+Result: 10121
+Guess: shaly
+Result: 22222
+Guess: asyla
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: asyla
+
+Result: 00001
+Guess: teins
+Result: 11010
+Guess: symar
+Result: 01011
+Guess: gawsy
+Result: 22222
+Guess: asyla
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: asyla
+
+Result: 00000
+Guess: mined
+Result: 00000
+Guess: bourg
+Result: 00101
+Guess: whats
+Result: 11101
+Guess: lassy
+Result: 11102
+Guess: sylva
+Result: 22222
+Guess: asyla
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: ataps
+
+Result: 00000
+Guess: yoker
+Result: 11000
+Guess: spill
+Result: 00102
+Guess: umphs
+Result: 01022
+Guess: jasps
+Result: 22222
+Guess: ataps
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: ataps
+
+Result: 00220
+Guess: crapy
+Result: 00222
+Guess: knaps
+Result: 00222
+Guess: heaps
+Result: 02222
+Guess: staps
+Result: 22222
+Guess: ataps
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: ataps
+
+Result: 00000
+Guess: humor
+Result: 20011
+Guess: annat
+Result: 20011
+Guess: adyta
+Result: 22222
+Guess: ataps
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: ataps
+
+Result: 00002
+Guess: colds
+Result: 10002
+Guess: preys
+Result: 00022
+Guess: quips
+Result: 02222
+Guess: staps
+Result: 22222
+Guess: ataps
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: ataps
+
+Result: 00000
+Guess: chiel
+Result: 00000
+Guess: burry
+Result: 00001
+Guess: gonna
+Result: 11112
+Guess: tapas
+Result: 22222
+Guess: ataps
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: ataxy
+
+Result: 00000
+Guess: eched
+Result: 01001
+Guess: nabla
+Result: 20010
+Guess: assam
+Result: 20201
+Guess: await
+Result: 22222
+Guess: ataxy
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: ataxy
+
+Result: 00000
+Guess: curns
+Result: 00000
+Guess: piped
+Result: 00002
+Guess: golly
+Result: 00012
+Guess: byway
+Result: 11002
+Guess: tatty
+Result: 22222
+Guess: ataxy
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: ataxy
+
+Result: 01001
+Guess: zanza
+Result: 20201
+Guess: amaut
+Result: 20210
+Guess: abate
+Result: 22200
+Guess: ataps
+Result: 22222
+Guess: ataxy
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: ataxy
+
+Result: 01000
+Guess: cawed
+Result: 00001
+Guess: mugga
+Result: 20200
+Guess: arars
+Result: 20201
+Guess: alant
+Result: 22222
+Guess: ataxy
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: ataxy
+
+Result: 00002
+Guess: crony
+Result: 00002
+Guess: sesey
+Result: 00002
+Guess: puffy
+Result: 01002
+Guess: lamby
+Result: 20002
+Guess: azygy
+Result: 22222
+Guess: ataxy
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: atigi
+
+Result: 01000
+Guess: hawks
+Result: 20000
+Guess: adeem
+Result: 21000
+Guess: agora
+Result: 20201
+Guess: acing
+Result: 22222
+Guess: atigi
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: atigi
+
+Result: 01000
+Guess: nalla
+Result: 01110
+Guess: vitas
+Result: 00111
+Guess: krait
+Result: 20210
+Guess: axite
+Result: 22200
+Guess: atimy
+Result: 22222
+Guess: atigi
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: atigi
+
+Result: 00010
+Guess: brute
+Result: 10110
+Guess: ictal
+Result: 22222
+Guess: atigi
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: atigi
+
+Result: 00001
+Guess: roust
+Result: 11001
+Guess: ticca
+Result: 01210
+Guess: baith
+Result: 22222
+Guess: atigi
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atigi
+
+Result: 00100
+Guess: crawl
+Result: 11220
+Guess: taigs
+Result: 22222
+Guess: atigi
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: atilt
+
+Result: 00000
+Guess: soupy
+Result: 00100
+Guess: bwana
+Result: 11010
+Guess: lidar
+Result: 21010
+Guess: alkie
+Result: 22222
+Guess: atilt
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: atilt
+
+Result: 00200
+Guess: veiny
+Result: 00200
+Guess: prigs
+Result: 11200
+Guess: taiko
+Result: 22222
+Guess: atilt
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atilt
+
+Result: 01000
+Guess: fadge
+Result: 00100
+Guess: chars
+Result: 21000
+Guess: allay
+Result: 20201
+Guess: apiol
+Result: 22222
+Guess: atilt
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: atilt
+
+Result: 01000
+Guess: ylems
+Result: 10110
+Guess: lotto
+Result: 22222
+Guess: atilt
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: atilt
+
+Result: 00120
+Guess: quale
+Result: 01020
+Guess: rawly
+Result: 22020
+Guess: atoll
+Result: 22222
+Guess: atilt
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atimy
+
+Result: 01000
+Guess: basen
+Result: 00011
+Guess: groat
+Result: 01101
+Guess: lytta
+Result: 10102
+Guess: thawy
+Result: 22222
+Guess: atimy
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: atimy
+
+Result: 01000
+Guess: piled
+Result: 00010
+Guess: curio
+Result: 11100
+Guess: iambs
+Result: 21200
+Guess: amiga
+Result: 22222
+Guess: atimy
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: atimy
+
+Result: 00002
+Guess: nerdy
+Result: 00002
+Guess: pocky
+Result: 01002
+Guess: gayly
+Result: 22222
+Guess: atimy
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atimy
+
+Result: 00020
+Guess: chemo
+Result: 20120
+Guess: azyms
+Result: 22222
+Guess: atimy
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: atimy
+
+Result: 01010
+Guess: pavin
+Result: 20001
+Guess: acari
+Result: 20200
+Guess: adieu
+Result: 20200
+Guess: ahigh
+Result: 21212
+Guess: amity
+Result: 22222
+Guess: atimy
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: atlas
+
+Result: 01021
+Guess: kaval
+Result: 21022
+Guess: alfas
+Result: 20222
+Guess: anlas
+Result: 20222
+Guess: amlas
+Result: 20222
+Guess: aulas
+Result: 22222
+Guess: atlas
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: atlas
+
+Result: 00122
+Guess: getas
+Result: 10022
+Guess: tubas
+Result: 22222
+Guess: atlas
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: atlas
+
+Result: 00000
+Guess: buggy
+Result: 01001
+Guess: hamza
+Result: 20022
+Guess: arras
+Result: 20122
+Guess: antas
+Result: 22222
+Guess: atlas
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: atlas
+
+Result: 10200
+Guess: telex
+Result: 01201
+Guess: galut
+Result: 22222
+Guess: atlas
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: atlas
+
+Result: 00000
+Guess: dreck
+Result: 00002
+Guess: bungs
+Result: 00222
+Guess: hylas
+Result: 20222
+Guess: amlas
+Result: 22222
+Guess: atlas
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: atman
+
+Result: 00000
+Guess: sesey
+Result: 00020
+Guess: vicar
+Result: 20020
+Guess: appal
+Result: 20020
+Guess: addax
+Result: 21022
+Guess: amban
+Result: 22222
+Guess: atman
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: atman
+
+Result: 10000
+Guess: touks
+Result: 00101
+Guess: plait
+Result: 01011
+Guess: facta
+Result: 21120
+Guess: antar
+Result: 22222
+Guess: atman
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: atman
+
+Result: 20202
+Guess: admin
+Result: 20202
+Guess: ammon
+Result: 22222
+Guess: atman
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: atman
+
+Result: 20000
+Guess: ahigh
+Result: 21001
+Guess: amowt
+Result: 22220
+Guess: atmas
+Result: 22222
+Guess: atman
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atman
+
+Result: 00100
+Guess: ponds
+Result: 20002
+Guess: abrin
+Result: 20202
+Guess: axmen
+Result: 20222
+Guess: amman
+Result: 22222
+Guess: atman
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: atmas
+
+Result: 00000
+Guess: crine
+Result: 11001
+Guess: mazut
+Result: 22202
+Guess: atmos
+Result: 22222
+Guess: atmas
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atmas
+
+Result: 00002
+Guess: veles
+Result: 00002
+Guess: forks
+Result: 00102
+Guess: shaps
+Result: 01002
+Guess: banns
+Result: 20022
+Guess: aidas
+Result: 20222
+Guess: agmas
+Result: 22222
+Guess: atmas
+
+
+Came to answer in 7 guesses
+----------------------------------
+
+Word: atmas
+
+Result: 10000
+Guess: scoog
+Result: 01002
+Guess: wawls
+Result: 20002
+Guess: apsis
+Result: 20002
+Guess: avers
+Result: 20012
+Guess: azyms
+Result: 22222
+Guess: atmas
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: atmas
+
+Result: 11000
+Guess: tango
+Result: 02020
+Guess: ethal
+Result: 22020
+Guess: attar
+Result: 22222
+Guess: atmas
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atmas
+
+Result: 00002
+Guess: circs
+Result: 00002
+Guess: shows
+Result: 01002
+Guess: balus
+Result: 00022
+Guess: degas
+Result: 20022
+Guess: akkas
+Result: 20022
+Guess: annas
+Result: 22222
+Guess: atmas
+
+
+Came to answer in 7 guesses
+----------------------------------
+
+Word: atmos
+
+Result: 01000
+Guess: parka
+Result: 20002
+Guess: agues
+Result: 20002
+Guess: allis
+Result: 20102
+Guess: azons
+Result: 21022
+Guess: ambos
+Result: 22222
+Guess: atmos
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: atmos
+
+Result: 11000
+Guess: tafia
+Result: 02112
+Guess: stoas
+Result: 22222
+Guess: atmos
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: atmos
+
+Result: 11002
+Guess: tapes
+Result: 22222
+Guess: atmos
+
+
+Came to answer in 2 guesses
+----------------------------------
+
+Word: atmos
+
+Result: 00022
+Guess: pesos
+Result: 00022
+Guess: olios
+Result: 00022
+Guess: uncos
+Result: 00022
+Guess: kybos
+Result: 11022
+Guess: taros
+Result: 22222
+Guess: atmos
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: atmos
+
+Result: 00000
+Guess: ceded
+Result: 00102
+Guess: spars
+Result: 01122
+Guess: jatos
+Result: 22222
+Guess: atmos
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atocs
+
+Result: 10010
+Guess: sweal
+Result: 00111
+Guess: brast
+Result: 01112
+Guess: pacts
+Result: 22222
+Guess: atocs
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atocs
+
+Result: 10000
+Guess: titup
+Result: 01011
+Guess: horst
+Result: 12200
+Guess: stool
+Result: 22202
+Guess: atoms
+Result: 22222
+Guess: atocs
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: atocs
+
+Result: 11000
+Guess: sonse
+Result: 10202
+Guess: cloys
+Result: 22222
+Guess: atocs
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: atocs
+
+Result: 12000
+Guess: stied
+Result: 02210
+Guess: ytost
+Result: 22202
+Guess: atoks
+Result: 22202
+Guess: atoms
+Result: 22222
+Guess: atocs
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: atocs
+
+Result: 00000
+Guess: unwed
+Result: 00100
+Guess: flail
+Result: 20210
+Guess: azoth
+Result: 22202
+Guess: atoks
+Result: 22222
+Guess: atocs
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: atoke
+
+Result: 00100
+Guess: plesh
+Result: 01000
+Guess: reccy
+Result: 00002
+Guess: guide
+Result: 10112
+Guess: ovate
+Result: 22202
+Guess: atone
+Result: 22222
+Guess: atoke
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: atoke
+
+Result: 01000
+Guess: veges
+Result: 01002
+Guess: caple
+Result: 00012
+Guess: rimae
+Result: 20202
+Guess: axone
+Result: 20222
+Guess: awoke
+Result: 22222
+Guess: atoke
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: atoke
+
+Result: 01000
+Guess: sasin
+Result: 10102
+Guess: teade
+Result: 20012
+Guess: acute
+Result: 22222
+Guess: atoke
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atoke
+
+Result: 01010
+Guess: loxed
+Result: 00202
+Guess: snore
+Result: 00202
+Guess: myope
+Result: 20202
+Guess: agoge
+Result: 20222
+Guess: awoke
+Result: 22222
+Guess: atoke
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: atoke
+
+Result: 01000
+Guess: mobby
+Result: 01010
+Guess: gajos
+Result: 00101
+Guess: llano
+Result: 20200
+Guess: aroha
+Result: 20202
+Guess: adoze
+Result: 20222
+Guess: awoke
+Result: 22222
+Guess: atoke
+
+
+Came to answer in 7 guesses
+----------------------------------
+
+Word: atoks
+
+Result: 10000
+Guess: twyer
+Result: 11001
+Guess: kaput
+Result: 12101
+Guess: stack
+Result: 22222
+Guess: atoks
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atoks
+
+Result: 00000
+Guess: chide
+Result: 01002
+Guess: naams
+Result: 01012
+Guess: bobas
+Result: 20202
+Guess: aloos
+Result: 22222
+Guess: atoks
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: atoks
+
+Result: 00101
+Guess: flank
+Result: 01021
+Guess: wacko
+Result: 00221
+Guess: pooka
+Result: 22222
+Guess: atoks
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atoks
+
+Result: 11002
+Guess: kojis
+Result: 01202
+Guess: skols
+Result: 20222
+Guess: amoks
+Result: 22222
+Guess: atoks
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atoks
+
+Result: 00002
+Guess: erics
+Result: 10002
+Guess: kumys
+Result: 11102
+Guess: takas
+Result: 01112
+Guess: skats
+Result: 22222
+Guess: atoks
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: atoll
+
+Result: 01200
+Guess: glove
+Result: 10220
+Guess: tholi
+Result: 00221
+Guess: smolt
+Result: 22222
+Guess: atoll
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atoll
+
+Result: 00100
+Guess: quack
+Result: 20020
+Guess: amble
+Result: 22020
+Guess: atilt
+Result: 22222
+Guess: atoll
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atoll
+
+Result: 00100
+Guess: scaff
+Result: 01000
+Guess: dauby
+Result: 20100
+Guess: antre
+Result: 20001
+Guess: aight
+Result: 22222
+Guess: atoll
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: atoll
+
+Result: 01200
+Guess: slomo
+Result: 20220
+Guess: azole
+Result: 20220
+Guess: ahold
+Result: 20220
+Guess: aioli
+Result: 22222
+Guess: atoll
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: atoll
+
+Result: 01000
+Guess: glens
+Result: 10022
+Guess: trull
+Result: 22222
+Guess: atoll
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: atoms
+
+Result: 10000
+Guess: titch
+Result: 00010
+Guess: yente
+Result: 00201
+Guess: dropt
+Result: 02202
+Guess: stows
+Result: 22202
+Guess: atoks
+Result: 22222
+Guess: atoms
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: atoms
+
+Result: 00120
+Guess: grame
+Result: 01021
+Guess: comma
+Result: 20220
+Guess: anomy
+Result: 22222
+Guess: atoms
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atoms
+
+Result: 00010
+Guess: yulan
+Result: 01100
+Guess: cased
+Result: 20002
+Guess: aspis
+Result: 22222
+Guess: atoms
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atoms
+
+Result: 10002
+Guess: ouzos
+Result: 00202
+Guess: globs
+Result: 00202
+Guess: whows
+Result: 00212
+Guess: eyots
+Result: 22222
+Guess: atoms
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: atoms
+
+Result: 01102
+Guess: rates
+Result: 00112
+Guess: chats
+Result: 22202
+Guess: atoks
+Result: 22222
+Guess: atoms
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atomy
+
+Result: 11010
+Guess: manos
+Result: 20220
+Guess: aboma
+Result: 22222
+Guess: atomy
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: atomy
+
+Result: 01002
+Guess: fabby
+Result: 20002
+Guess: array
+Result: 21012
+Guess: amity
+Result: 22222
+Guess: atomy
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atomy
+
+Result: 02200
+Guess: stout
+Result: 22200
+Guess: atone
+Result: 22200
+Guess: atoll
+Result: 22222
+Guess: atomy
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atomy
+
+Result: 01100
+Guess: smaak
+Result: 11000
+Guess: mawed
+Result: 01021
+Guess: comma
+Result: 20222
+Guess: anomy
+Result: 22222
+Guess: atomy
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: atomy
+
+Result: 00100
+Guess: liard
+Result: 01012
+Guess: bawty
+Result: 20102
+Guess: antsy
+Result: 22222
+Guess: atomy
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atone
+
+Result: 20010
+Guess: arced
+Result: 20002
+Guess: aquae
+Result: 20002
+Guess: avise
+Result: 20002
+Guess: abele
+Result: 20002
+Guess: azyme
+Result: 20222
+Guess: agone
+Result: 20222
+Guess: axone
+Result: 22222
+Guess: atone
+
+
+Came to answer in 8 guesses
+----------------------------------
+
+Word: atone
+
+Result: 01010
+Guess: cages
+Result: 01021
+Guess: penna
+Result: 20022
+Guess: aline
+Result: 20022
+Guess: amene
+Result: 22222
+Guess: atone
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: atone
+
+Result: 01002
+Guess: pombe
+Result: 00202
+Guess: croze
+Result: 00202
+Guess: exode
+Result: 00202
+Guess: swole
+Result: 00222
+Guess: ohone
+Result: 22222
+Guess: atone
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: atone
+
+Result: 00110
+Guess: wheal
+Result: 11110
+Guess: nates
+Result: 01121
+Guess: meant
+Result: 22222
+Guess: atone
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atone
+
+Result: 10102
+Guess: tsade
+Result: 01102
+Guess: patte
+Result: 22222
+Guess: atone
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: atony
+
+Result: 01102
+Guess: goary
+Result: 20012
+Guess: alloy
+Result: 22222
+Guess: atony
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: atony
+
+Result: 10000
+Guess: nudes
+Result: 11020
+Guess: tying
+Result: 01121
+Guess: poynt
+Result: 22222
+Guess: atony
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atony
+
+Result: 02000
+Guess: stime
+Result: 22000
+Guess: attar
+Result: 22222
+Guess: atony
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: atony
+
+Result: 00000
+Guess: miler
+Result: 02200
+Guess: stobs
+Result: 22222
+Guess: atony
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: atony
+
+Result: 00200
+Guess: sloom
+Result: 22222
+Guess: atony
+
+
+Came to answer in 2 guesses
+----------------------------------
+
+Word: atopy
+
+Result: 00200
+Guess: mooks
+Result: 00200
+Guess: diode
+Result: 20200
+Guess: aroha
+Result: 20200
+Guess: along
+Result: 22222
+Guess: atopy
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: atopy
+
+Result: 00100
+Guess: leams
+Result: 01001
+Guess: carbo
+Result: 20200
+Guess: adown
+Result: 21200
+Guess: apoop
+Result: 22222
+Guess: atopy
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: atopy
+
+Result: 10010
+Guess: tidal
+Result: 00121
+Guess: swapt
+Result: 22222
+Guess: atopy
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: atopy
+
+Result: 11000
+Guess: tacts
+Result: 01110
+Guess: uptak
+Result: 00121
+Guess: leapt
+Result: 22222
+Guess: atopy
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atopy
+
+Result: 00010
+Guess: suras
+Result: 00201
+Guess: moola
+Result: 22200
+Guess: atoke
+Result: 22222
+Guess: atopy
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atria
+
+Result: 01000
+Guess: mixed
+Result: 01102
+Guess: paisa
+Result: 20222
+Guess: agria
+Result: 22222
+Guess: atria
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atria
+
+Result: 00000
+Guess: owsen
+Result: 00100
+Guess: chimb
+Result: 01000
+Guess: lippy
+Result: 20001
+Guess: azuki
+Result: 20222
+Guess: agria
+Result: 22222
+Guess: atria
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: atria
+
+Result: 00010
+Guess: footy
+Result: 00100
+Guess: letch
+Result: 11011
+Guess: tasar
+Result: 22222
+Guess: atria
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atria
+
+Result: 10000
+Guess: roped
+Result: 01200
+Guess: marsh
+Result: 22222
+Guess: atria
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: atria
+
+Result: 01000
+Guess: niffs
+Result: 01110
+Guess: laird
+Result: 20220
+Guess: ayrie
+Result: 20221
+Guess: amrit
+Result: 22220
+Guess: atrip
+Result: 22222
+Guess: atria
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: atrip
+
+Result: 11010
+Guess: tayra
+Result: 20101
+Guess: alter
+Result: 22222
+Guess: atrip
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: atrip
+
+Result: 00000
+Guess: voles
+Result: 10010
+Guess: pucan
+Result: 01111
+Guess: wrapt
+Result: 22222
+Guess: atrip
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atrip
+
+Result: 00000
+Guess: kolos
+Result: 11200
+Guess: tarre
+Result: 21210
+Guess: airth
+Result: 20221
+Guess: amrit
+Result: 22220
+Guess: atria
+Result: 22222
+Guess: atrip
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: atrip
+
+Result: 01010
+Guess: drops
+Result: 10210
+Guess: purty
+Result: 10222
+Guess: thrip
+Result: 22222
+Guess: atrip
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atrip
+
+Result: 00000
+Guess: hobby
+Result: 01000
+Guess: creme
+Result: 01200
+Guess: virus
+Result: 20211
+Guess: aarti
+Result: 20221
+Guess: afrit
+Result: 22222
+Guess: atrip
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: attap
+
+Result: 00000
+Guess: ledes
+Result: 00000
+Guess: chimo
+Result: 00210
+Guess: vutty
+Result: 11220
+Guess: tatar
+Result: 22222
+Guess: attap
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: attap
+
+Result: 00000
+Guess: brugh
+Result: 01000
+Guess: ippon
+Result: 10000
+Guess: peles
+Result: 20111
+Guess: adapt
+Result: 22222
+Guess: attap
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: attap
+
+Result: 10100
+Guess: toped
+Result: 00011
+Guess: crypt
+Result: 10110
+Guess: plats
+Result: 01222
+Guess: watap
+Result: 22222
+Guess: attap
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: attap
+
+Result: 11000
+Guess: tachs
+Result: 00111
+Guess: inapt
+Result: 21200
+Guess: apter
+Result: 22222
+Guess: attap
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: attap
+
+Result: 01011
+Guess: manta
+Result: 22220
+Guess: attar
+Result: 22222
+Guess: attap
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: attar
+
+Result: 00000
+Guess: cushy
+Result: 01000
+Guess: drown
+Result: 21110
+Guess: aarti
+Result: 20111
+Guess: apart
+Result: 22222
+Guess: attar
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: attar
+
+Result: 00200
+Guess: fetch
+Result: 00220
+Guess: witan
+Result: 00220
+Guess: oktas
+Result: 11220
+Guess: ratal
+Result: 22222
+Guess: attar
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: attar
+
+Result: 00001
+Guess: picot
+Result: 00010
+Guess: genty
+Result: 11100
+Guess: trads
+Result: 20222
+Guess: altar
+Result: 22222
+Guess: attar
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: attar
+
+Result: 11000
+Guess: trooz
+Result: 22101
+Guess: atria
+Result: 22222
+Guess: attar
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: attar
+
+Result: 00000
+Guess: dooks
+Result: 00002
+Guess: gluer
+Result: 00022
+Guess: briar
+Result: 11222
+Guess: tatar
+Result: 22222
+Guess: attar
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: attic
+
+Result: 00000
+Guess: emyds
+Result: 01000
+Guess: livor
+Result: 00101
+Guess: ghazi
+Result: 01220
+Guess: batik
+Result: 21220
+Guess: actin
+Result: 22222
+Guess: attic
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: attic
+
+Result: 00010
+Guess: melty
+Result: 00001
+Guess: ghost
+Result: 01220
+Guess: patin
+Result: 20222
+Guess: artic
+Result: 22222
+Guess: attic
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: attic
+
+Result: 20000
+Guess: ayres
+Result: 20001
+Guess: avant
+Result: 20010
+Guess: azoth
+Result: 22222
+Guess: attic
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: attic
+
+Result: 00010
+Guess: gyral
+Result: 00110
+Guess: neath
+Result: 01200
+Guess: matza
+Result: 22222
+Guess: attic
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: attic
+
+Result: 00000
+Guess: orlon
+Result: 01010
+Guess: mauts
+Result: 00011
+Guess: expat
+Result: 10021
+Guess: tibia
+Result: 22222
+Guess: attic
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: atuas
+
+Result: 00101
+Guess: hiant
+Result: 22000
+Guess: atopy
+Result: 22022
+Guess: atlas
+Result: 22222
+Guess: atuas
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atuas
+
+Result: 00012
+Guess: silts
+Result: 11002
+Guess: tabes
+Result: 22002
+Guess: atoks
+Result: 22102
+Guess: ataps
+Result: 22222
+Guess: atuas
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: atuas
+
+Result: 00012
+Guess: resus
+Result: 01102
+Guess: kutis
+Result: 01212
+Guess: dauts
+Result: 22222
+Guess: atuas
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atuas
+
+Result: 00001
+Guess: fondu
+Result: 01202
+Guess: gaurs
+Result: 20222
+Guess: aquas
+Result: 22222
+Guess: atuas
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: atuas
+
+Result: 00000
+Guess: keeve
+Result: 01000
+Guess: rawly
+Result: 20000
+Guess: ammon
+Result: 20101
+Guess: abaft
+Result: 22020
+Guess: attap
+Result: 22222
+Guess: atuas
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: audad
+
+Result: 00100
+Guess: pouff
+Result: 02001
+Guess: bunya
+Result: 12110
+Guess: duads
+Result: 22222
+Guess: audad
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: audad
+
+Result: 01022
+Guess: salad
+Result: 20022
+Guess: ahead
+Result: 21022
+Guess: adrad
+Result: 22222
+Guess: audad
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: audad
+
+Result: 00200
+Guess: redos
+Result: 00200
+Guess: width
+Result: 02200
+Guess: judgy
+Result: 02200
+Guess: kudzu
+Result: 22222
+Guess: audad
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: audad
+
+Result: 20001
+Guess: anima
+Result: 20020
+Guess: altar
+Result: 20020
+Guess: asway
+Result: 20020
+Guess: apeak
+Result: 22222
+Guess: audad
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: audad
+
+Result: 01000
+Guess: facer
+Result: 20100
+Guess: apays
+Result: 20001
+Guess: ajiva
+Result: 20020
+Guess: axman
+Result: 20020
+Guess: algal
+Result: 22222
+Guess: audad
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: audio
+
+Result: 00100
+Guess: privy
+Result: 00120
+Guess: glaik
+Result: 21020
+Guess: admix
+Result: 20220
+Guess: asdic
+Result: 22220
+Guess: audit
+Result: 22222
+Guess: audio
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: audio
+
+Result: 01010
+Guess: jarul
+Result: 02001
+Guess: gumma
+Result: 02210
+Guess: budas
+Result: 22222
+Guess: audio
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: audio
+
+Result: 01100
+Guess: yourt
+Result: 10110
+Guess: onium
+Result: 22222
+Guess: audio
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: audio
+
+Result: 00000
+Guess: benny
+Result: 20000
+Guess: agast
+Result: 21100
+Guess: aioli
+Result: 20222
+Guess: addio
+Result: 22222
+Guess: audio
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: audio
+
+Result: 00210
+Guess: dedal
+Result: 01220
+Guess: radii
+Result: 20220
+Guess: asdic
+Result: 22220
+Guess: audit
+Result: 22222
+Guess: audio
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: audit
+
+Result: 01200
+Guess: bided
+Result: 02220
+Guess: mudir
+Result: 02220
+Guess: pudic
+Result: 22222
+Guess: audit
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: audit
+
+Result: 11000
+Guess: daals
+Result: 20021
+Guess: axoid
+Result: 22222
+Guess: audit
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: audit
+
+Result: 01000
+Guess: palms
+Result: 00102
+Guess: grant
+Result: 00012
+Guess: exeat
+Result: 21002
+Guess: adbot
+Result: 22222
+Guess: audit
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: audit
+
+Result: 02010
+Guess: sugan
+Result: 02100
+Guess: quake
+Result: 02001
+Guess: bulla
+Result: 22220
+Guess: audio
+Result: 22222
+Guess: audit
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: audit
+
+Result: 10000
+Guess: drool
+Result: 00010
+Guess: emyde
+Result: 00101
+Guess: shand
+Result: 01201
+Guess: kadai
+Result: 22222
+Guess: audit
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: auger
+
+Result: 00100
+Guess: chain
+Result: 21000
+Guess: artsy
+Result: 20010
+Guess: awork
+Result: 20222
+Guess: agger
+Result: 22222
+Guess: auger
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: auger
+
+Result: 11000
+Guess: redid
+Result: 11022
+Guess: gamer
+Result: 22222
+Guess: auger
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: auger
+
+Result: 10000
+Guess: goony
+Result: 00011
+Guess: wilga
+Result: 01210
+Guess: degas
+Result: 01222
+Guess: eager
+Result: 22222
+Guess: auger
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: auger
+
+Result: 12000
+Guess: guids
+Result: 02200
+Guess: ought
+Result: 02211
+Guess: nugae
+Result: 22222
+Guess: auger
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: auger
+
+Result: 00000
+Guess: xylic
+Result: 00020
+Guess: sowed
+Result: 01022
+Guess: haver
+Result: 20022
+Guess: armer
+Result: 22222
+Guess: auger
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: aught
+
+Result: 00000
+Guess: cides
+Result: 00101
+Guess: krang
+Result: 10001
+Guess: gompa
+Result: 20200
+Guess: algal
+Result: 22222
+Guess: aught
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: aught
+
+Result: 00200
+Guess: signs
+Result: 01200
+Guess: pagle
+Result: 20202
+Guess: argot
+Result: 22222
+Guess: aught
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: aught
+
+Result: 00000
+Guess: skell
+Result: 01100
+Guess: mahwa
+Result: 20020
+Guess: archi
+Result: 22222
+Guess: aught
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: aught
+
+Result: 00010
+Guess: pibal
+Result: 20100
+Guess: arums
+Result: 22010
+Guess: aunty
+Result: 22222
+Guess: aught
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: aught
+
+Result: 00000
+Guess: dolce
+Result: 00010
+Guess: vints
+Result: 00102
+Guess: wrapt
+Result: 01112
+Guess: bahut
+Result: 22222
+Guess: aught
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: augur
+
+Result: 00000
+Guess: pokes
+Result: 00000
+Guess: fifth
+Result: 01000
+Guess: canal
+Result: 20010
+Guess: ambry
+Result: 22222
+Guess: augur
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: augur
+
+Result: 01000
+Guess: santo
+Result: 10010
+Guess: umiac
+Result: 02100
+Guess: quake
+Result: 02001
+Guess: bubba
+Result: 22222
+Guess: augur
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: augur
+
+Result: 00100
+Guess: boast
+Result: 01010
+Guess: prial
+Result: 01002
+Guess: haver
+Result: 22222
+Guess: augur
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: augur
+
+Result: 00002
+Guess: speer
+Result: 00012
+Guess: friar
+Result: 20022
+Guess: amour
+Result: 22222
+Guess: augur
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: augur
+
+Result: 00100
+Guess: strow
+Result: 10010
+Guess: riyal
+Result: 11100
+Guess: grame
+Result: 22222
+Guess: augur
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: aulas
+
+Result: 10110
+Guess: least
+Result: 01121
+Guess: nasal
+Result: 20222
+Guess: amlas
+Result: 22222
+Guess: aulas
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: aulas
+
+Result: 00101
+Guess: nduja
+Result: 00112
+Guess: fraus
+Result: 02022
+Guess: pupas
+Result: 02022
+Guess: kuias
+Result: 02022
+Guess: gugas
+Result: 02022
+Guess: yucas
+Result: 02022
+Guess: humas
+Result: 02022
+Guess: bubas
+Result: 22222
+Guess: aulas
+
+
+Came to answer in 9 guesses
+----------------------------------
+
+Word: aulas
+
+Result: 02001
+Guess: punka
+Result: 02022
+Guess: bubas
+Result: 02022
+Guess: dumas
+Result: 02022
+Guess: huias
+Result: 02022
+Guess: yugas
+Result: 02022
+Guess: tufas
+Result: 22222
+Guess: aulas
+
+
+Came to answer in 7 guesses
+----------------------------------
+
+Word: aulas
+
+Result: 01000
+Guess: ganev
+Result: 00102
+Guess: ikats
+Result: 00222
+Guess: colas
+Result: 02222
+Guess: pulas
+Result: 22222
+Guess: aulas
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: aulas
+
+Result: 01010
+Guess: maill
+Result: 12022
+Guess: lunas
+Result: 02222
+Guess: kulas
+Result: 02222
+Guess: gulas
+Result: 02222
+Guess: pulas
+Result: 02222
+Guess: hulas
+Result: 22222
+Guess: aulas
+
+
+Came to answer in 7 guesses
+----------------------------------
+
+Word: aulic
+
+Result: 10000
+Guess: idees
+Result: 00101
+Guess: twirl
+Result: 01201
+Guess: palpi
+Result: 01201
+Guess: zilla
+Result: 22222
+Guess: aulic
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: aulic
+
+Result: 02000
+Guess: tuffs
+Result: 02000
+Guess: nummy
+Result: 02100
+Guess: pucer
+Result: 12110
+Guess: luach
+Result: 22222
+Guess: aulic
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: aulic
+
+Result: 01000
+Guess: gloms
+Result: 00110
+Guess: jhala
+Result: 11000
+Guess: lapel
+Result: 02210
+Guess: kulak
+Result: 22222
+Guess: aulic
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: aulic
+
+Result: 10000
+Guess: cetes
+Result: 20100
+Guess: ancon
+Result: 21001
+Guess: acari
+Result: 22222
+Guess: aulic
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: aulic
+
+Result: 00100
+Guess: brand
+Result: 11100
+Guess: laugh
+Result: 02210
+Guess: kulas
+Result: 22201
+Guess: auloi
+Result: 22222
+Guess: aulic
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: auloi
+
+Result: 01001
+Guess: hamal
+Result: 01110
+Guess: blain
+Result: 20110
+Guess: axile
+Result: 22222
+Guess: auloi
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: auloi
+
+Result: 00000
+Guess: terce
+Result: 01000
+Guess: gawds
+Result: 01010
+Guess: hijab
+Result: 21100
+Guess: aliya
+Result: 22011
+Guess: aumil
+Result: 22222
+Guess: auloi
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: auloi
+
+Result: 01000
+Guess: sorts
+Result: 10102
+Guess: okapi
+Result: 22222
+Guess: auloi
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: auloi
+
+Result: 00110
+Guess: seils
+Result: 22222
+Guess: auloi
+
+
+Came to answer in 2 guesses
+----------------------------------
+
+Word: auloi
+
+Result: 00000
+Guess: shent
+Result: 20100
+Guess: amiga
+Result: 20112
+Guess: aioli
+Result: 22222
+Guess: auloi
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: aulos
+
+Result: 00002
+Guess: teggs
+Result: 01002
+Guess: moons
+Result: 20022
+Guess: apsos
+Result: 21022
+Guess: alcos
+Result: 22222
+Guess: aulos
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: aulos
+
+Result: 01000
+Guess: coney
+Result: 02211
+Guess: pulao
+Result: 22222
+Guess: aulos
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: aulos
+
+Result: 20002
+Guess: aegis
+Result: 20002
+Guess: ayahs
+Result: 20022
+Guess: ambos
+Result: 20022
+Guess: apsos
+Result: 21022
+Guess: altos
+Result: 22222
+Guess: aulos
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: aulos
+
+Result: 00200
+Guess: filet
+Result: 02201
+Guess: mulla
+Result: 22202
+Guess: aulas
+Result: 22222
+Guess: aulos
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: aulos
+
+Result: 20220
+Guess: azlon
+Result: 22222
+Guess: aulos
+
+
+Came to answer in 2 guesses
+----------------------------------
+
+Word: aumil
+
+Result: 00010
+Guess: cocas
+Result: 20020
+Guess: aerie
+Result: 20020
+Guess: again
+Result: 22222
+Guess: aumil
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: aumil
+
+Result: 01000
+Guess: winch
+Result: 01122
+Guess: email
+Result: 20222
+Guess: armil
+Result: 22222
+Guess: aumil
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: aumil
+
+Result: 20011
+Guess: appui
+Result: 22222
+Guess: aumil
+
+
+Came to answer in 2 guesses
+----------------------------------
+
+Word: aumil
+
+Result: 10000
+Guess: lochs
+Result: 10012
+Guess: ideal
+Result: 20022
+Guess: avail
+Result: 20022
+Guess: argil
+Result: 22222
+Guess: aumil
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: aumil
+
+Result: 01000
+Guess: winds
+Result: 02220
+Guess: humic
+Result: 22222
+Guess: aumil
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: aunes
+
+Result: 00100
+Guess: brugh
+Result: 02000
+Guess: quipu
+Result: 02002
+Guess: wulls
+Result: 02022
+Guess: muses
+Result: 02022
+Guess: jutes
+Result: 02022
+Guess: yukes
+Result: 12022
+Guess: nudes
+Result: 22222
+Guess: aunes
+
+
+Came to answer in 8 guesses
+----------------------------------
+
+Word: aunes
+
+Result: 12002
+Guess: euros
+Result: 02022
+Guess: duxes
+Result: 02022
+Guess: hules
+Result: 02022
+Guess: suses
+Result: 02022
+Guess: bukes
+Result: 02022
+Guess: fuzes
+Result: 02022
+Guess: cutes
+Result: 02022
+Guess: juves
+Result: 22222
+Guess: aunes
+
+
+Came to answer in 9 guesses
+----------------------------------
+
+Word: aunes
+
+Result: 00110
+Guess: blaud
+Result: 02011
+Guess: quina
+Result: 02011
+Guess: furan
+Result: 22202
+Guess: aunts
+Result: 22222
+Guess: aunes
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: aunes
+
+Result: 01000
+Guess: ramal
+Result: 00102
+Guess: kyats
+Result: 20002
+Guess: aspis
+Result: 20022
+Guess: aches
+Result: 22222
+Guess: aunes
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: aunes
+
+Result: 02022
+Guess: gules
+Result: 12022
+Guess: nukes
+Result: 22222
+Guess: aunes
+
+
+Came to answer in 3 guesses
+----------------------------------
+
+Word: aunts
+
+Result: 10000
+Guess: swede
+Result: 00012
+Guess: coons
+Result: 00202
+Guess: hings
+Result: 01212
+Guess: manus
+Result: 10212
+Guess: ulnas
+Result: 22222
+Guess: aunts
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: aunts
+
+Result: 00000
+Guess: hiree
+Result: 10000
+Guess: skody
+Result: 02002
+Guess: guffs
+Result: 02022
+Guess: cults
+Result: 02022
+Guess: busts
+Result: 02222
+Guess: munts
+Result: 02222
+Guess: punts
+Result: 22222
+Guess: aunts
+
+
+Came to answer in 8 guesses
+----------------------------------
+
+Word: aunts
+
+Result: 01002
+Guess: enows
+Result: 00202
+Guess: bings
+Result: 00202
+Guess: rynds
+Result: 10212
+Guess: ulnas
+Result: 01212
+Guess: manus
+Result: 22222
+Guess: aunts
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: aunts
+
+Result: 00000
+Guess: pyric
+Result: 20000
+Guess: agaze
+Result: 20002
+Guess: alods
+Result: 20122
+Guess: abuts
+Result: 22222
+Guess: aunts
+
+
+Came to answer in 5 guesses
+----------------------------------
+
+Word: aunts
+
+Result: 00010
