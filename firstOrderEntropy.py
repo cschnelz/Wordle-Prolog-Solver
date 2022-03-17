@@ -1,6 +1,3 @@
-
-
-
 from collections import defaultdict
 from check import check
 from tqdm import tqdm
@@ -26,6 +23,9 @@ for word in tqdm(words):
     for guess in words:
         pattern = check(word, guess)
         pattern_frequencies[word][pattern] += 1
+
+with open('saved_freqs.pkl', 'wb') as f:
+    pickle.dump(pattern_frequencies['pizza'], f)
 
 
 # calculate entropy scores
