@@ -1,0 +1,74 @@
+Word: aahed
+
+tares
+Result: 02020
+panel
+Result: 02020
+cameo
+Result: 02020
+bayed
+Result: 02022
+hawed
+Result: 12022
+aahed
+Result: 22222
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: aalii
+
+tares
+Result: 02000
+daily
+Result: 02110
+lapin
+Result: 12020
+malic
+Result: 02220
+kalif
+Result: 02220
+aalii
+Result: 22222
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: aargh
+
+tares
+Result: 02200
+carol
+Result: 02200
+marid
+Result: 02200
+barny
+Result: 02200
+parka
+Result: 02201
+aargh
+Result: 22222
+
+
+Came to answer in 6 guesses
+----------------------------------
+
+Word: aarti
+
+tares
+Result: 12200
+larnt
+Result: 02201
+parti
+Result: 02222
+aarti
+Result: 22222
+
+
+Came to answer in 4 guesses
+----------------------------------
+
+Word: abaca
+
