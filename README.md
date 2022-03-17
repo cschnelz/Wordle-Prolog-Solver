@@ -1,22 +1,42 @@
-# Wordle Prolog-Solver; A logic-based solver for a python adaptation of the internet game Wordle
+# WordLog; A logic-based solver for a python adaptation of the internet game Wordle
 ## Acknowledgments
 
 **Authors:** Carlos García-Lemus , Michael Long, Charles Schnelz
 
-**Instructor:** Dr. Canaan
+**Instructor:** Dr. Rodrigo Canaan
 
 **Course:** CSC 481; Knowledge Based Systems
 
-**Affiliation:** California Polytechnic University, San Luis Obispo Computer Science Department 
+
+**Affiliation:** California Polytechnic State University, San Luis Obispo:
+                 Computer Science and Software Engineering Department
 
 ## Instructions for this project
-**Requirements for this project:**
-`pip install tqdm`
-`pip install check`
+**Requirements for this project:**  
+- Prolog
+- Python3  
+  
+For /statistics/:  
+- tqdm
+
+
 
 **How to run this project:**
 
+`swipl firstOrderEntropy.pl`  
+  
+To run enter a word that our entropy bot will guess it must be in the format "[a,b,c,d,e]":  
+`?- firstEntropyEntry([t,r,a,c,e])`  
+
+This will give each guess, and each hint in the form of "[0, 0, 1, 0, 1]" for example as well as each guessed word  
+
+
+
+
 **How to reproduce our results:**
+In the folder statistics will list every statistics gained from this project found in our report. To reproduce, move this file into the same file as firstOrderEntropy.pl and run each statistics file you see fit.
+To see more detailed results and diagrams, consult section 5c [here](https://docs.google.com/document/d/17zcva0blP_qaeTDRjn1T9nG3R9FT3QFr/edit?usp=sharing&ouid=108228719403900494481&rtpof=true&sd=true)
+
 
 ## Further Acknowledgments        
 
