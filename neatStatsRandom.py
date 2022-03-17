@@ -19,6 +19,7 @@ def main():
                 elif flag2 == 1:
                     if word != " ":
                         numGuess = word
+                        #print((newWordListWord, numGuess))
                         newWordList.append((newWordListWord, numGuess))
                         flag2 = 0
                 if word == "Word:":
@@ -41,7 +42,7 @@ def main():
                 print(currWord, newVal/5)
             first = True
             currWord = word[0]
-            newVal = 0
+            newVal = int(word[1])
         else:
             newVal += int(word[1])
 
