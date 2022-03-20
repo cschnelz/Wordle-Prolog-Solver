@@ -6,6 +6,35 @@ currentPattern([-1,-1,-1,-1,-1]).
 
 :- dynamic makeGuess/3.
 
+
+
+
+%% Entry Point
+%% solution should be in the form [a,b,c,d,e]
+firstEntropyEntry(Solution) :-
+    consult(wordleWords), consult(wordleScores),
+    asserta(solution(Solution)),
+    findall(X, word(X), WordList),
+    findall(Y, score(Y), Scores),
+    firstEntropyAgent([], 0, WordList, Scores).
+
+% Agent Predicates
+    % breaks when the solution is found
+firstEntropyAgent([2,2,2,2,2], Guesses, _, _) :- write('\n\nCame to answer in '),write(Guesses),writeln(' guesses').
+firstEntropyAgent(Pattern, Guesses, Words, Scores) :-
+    GuessInc is Guesses + 1,
+    % get the word with the best entropy score
+    find_max_entropy(Index, Word, Words, Scores),
+    length(Words, Len), writeln(Len), !,
+    atomic_list_concat(Word, Y), writeln(Y),
+    
+    % guess the word and cull the word list
+    makeGuessAndCull(Word, NW, NS, Words, Scores), !,
+    currentPattern(P),
+    % continue
+    firstEntropyAgent(P,GuessInc,NW,NS).
+
+% support function - calls for the wordle response code and updates KB info
 makeGuessAndCull(Guess, NewWords, NewScores, OldWords, OldScores):-
     % load the makeGuess Pred
     consult(check),
@@ -29,35 +58,8 @@ cullWords([Hnw|NewWords],[Hns|NewScores],[How|OldWords],[Hos|OldScores]) :- curr
 % otherwise, remove it from the database
 cullWords(NewWords,NewScores,[_|OldWords],[_|OldScores]) :- cullWords(NewWords, NewScores, OldWords, OldScores).
 
-%%%
-%
-%       ENTRY POINT 
-%
-%%%
-
-
-%% solution should be in the form [a,b,c,d,e]
-firstEntropyEntry(Solution) :-
-    consult(wordleWords), consult(wordleScores),
-    asserta(solution(Solution)),
-    findall(X, word(X), WordList),
-    findall(Y, score(Y), Scores),
-    firstEntropyAgent([], 0, WordList, Scores).
-
-
-
-firstEntropyAgent([2,2,2,2,2], Guesses, _, _) :- write('\n\nCame to answer in '),write(Guesses),writeln(' guesses').
-firstEntropyAgent(Pattern, Guesses, Words, Scores) :-
-    GuessInc is Guesses + 1,
-    find_max_entropy(Index, Word, Words, Scores),
-    atomic_list_concat(Word, Y), writeln(Y),
-    makeGuessAndCull(Word, NW, NS, Words, Scores), !,
-    currentPattern(P),
-    firstEntropyAgent(P,GuessInc,NW,NS).
-
-
+% support functions for getting the word (and its index) with the highest entropy score
 max_list(L, M, I) :- nth0(I, L, M), \+ (member(E, L), E > M).
-
 find_max_entropy(I, Word, WordList, Scores) :-
     max_list(Scores, M, I),
     nth0(I, WordList, Word).

@@ -1,19 +1,34 @@
 
-% example words KB FORMAT
-% :-dynamic word/1.
-% word([c,r,a,n,e]).
-% word([c,r,a,t,e]).
-% word([p,l,a,n,e]).
-% word([l,a,t,t,e]).
-% word([p,l,a,i,n]).
-% word([n,e,w,e,r]).
-
 :-dynamic currentGuess/1.
 currentGuess([-1,-1,-1,-1,-1]).
 :-dynamic currentPattern/1.
 currentPattern([-1,-1,-1,-1,-1]).
 
 :- dynamic makeGuess/3.
+
+
+%% Entry point
+% solution should be in the form [a,b,c,d,e]
+randomEntry(Solution) :-
+    asserta(solution(Solution)),
+    consult(wordleWords),
+    randomAgent([-1,-1,-1,-1,-1],0),
+    retract(solution(_)).
+
+% Random Agent
+randomAgent([2,2,2,2,2], Guesses) :- write('\n\nCame to answer in '),write(Guesses),writeln(' guesses').
+randomAgent(Pattern, Guesses) :-
+    findall(X, word(X), CurrentWords),
+    length(CurrentWords, Len), writeln(Len), !,
+    random_member(Guess, CurrentWords),
+    writef('Guess: %p%p%p%p%p\n', Guess),
+    makeGuessAndCull(Guess), !,
+
+    
+    
+    currentPattern(P),
+    GuessInc is Guesses + 1,
+    randomAgent(P, GuessInc).
 
 
 makeGuessAndCull(Guess):-
@@ -36,21 +51,5 @@ cullWords3(Word) :- currentPattern(P), currentGuess(G), makeGuess(Word, G, P), !
 % otherwise, remove it from the database
 cullWords3(Word) :- retract(word(Word)).
 
-randomEntry(Solution) :-
-    asserta(solution(Solution)),
-    consult(wordleWords),
-    randomAgent([-1,-1,-1,-1,-1],0),
-    retract(solution(_)).
 
-randomAgent([2,2,2,2,2], Guesses) :- write('\n\nCame to answer in '),write(Guesses),writeln(' guesses').
-randomAgent(Pattern, Guesses) :-
-    findall(X, word(X), CurrentWords),
-
-    random_member(Guess, CurrentWords),
-    makeGuessAndCull(Guess), !,
-
-    writef('Guess: %p%p%p%p%p\n', Guess),
-    currentPattern(P),
-    GuessInc is Guesses + 1,
-    randomAgent(P, GuessInc).
 
